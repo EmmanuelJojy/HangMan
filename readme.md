@@ -32,5 +32,5 @@ Do not attempt to manually establish a connection
 
 Copyright (c) 2021. All rights reserved to Emmanuel Jojy. Use is subject to the above conditions.
 
--Author:          Emmanuel Jojy
--Last modified:   26.01.21
+    -Author:          Emmanuel Jojy
+    -Last modified:   26.01.21
