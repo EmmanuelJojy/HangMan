@@ -31,5 +31,6 @@ Do not attempt to manually establish a connection
 ## License
 
 Copyright (c) 2021. All rights reserved to Emmanuel Jojy. Use is subject to the above conditions.
-@author Emmanuel Jojy
-@date 26.01.21
+
+-Author:          Emmanuel Jojy
+-Last modified:   26.01.21
