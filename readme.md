@@ -16,6 +16,8 @@ Download all files to a dedicated directory (excluding class and documentation d
 Then run the following sequentially. 
 Note: An active network connection is required for use of database.
 
+#### ! Requires the latest version of PostgreSQL JDBC driver to be installed.
+
 ```sh
 $javac *.java
 $java Main
