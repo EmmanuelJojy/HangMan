@@ -12,7 +12,7 @@ Contains the following:
 ## Execution
 
 Requires a Java JDK installed for Execution. 
-Download all files to a dedicated directory and open terminal the same.
+Download all files to a dedicated directory (excluding class and documentation directory) and open terminal at the same location.
 Then run the following sequentially. 
 Note: An active network connection is required for use of database.
 
