@@ -15,7 +15,7 @@ import java.sql.*;
  * <p>
  * KeyListener might be a bit glitched since it demands Window Focus. I'm
  * working on solution to solve the same.
- * <p>
+ * </p>
  * 
  * <p>
  * The class provides for a pluggable panel {@code p}.

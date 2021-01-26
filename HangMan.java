@@ -11,7 +11,7 @@ import java.util.*;
  * <p>
  * Collections framework has been extensively used for providing resizabiltiy
  * without needing to hardcode the size based on the word.
- * <p>
+ * </p>
  * 
  * <p>
  * The class is a dependency for the {@code Game} class.
