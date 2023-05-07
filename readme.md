@@ -36,3 +36,7 @@ Copyright (c) 2021. All rights reserved to Emmanuel Jojy. Use is subject to the 
 
     -Author:          Emmanuel Jojy
     -Last modified:   26.01.21
+    
+## Archived Repository
+
+It has been decided the repository be archived after long-time inactivity. The repository will be archived on the May 7th, 2023.
